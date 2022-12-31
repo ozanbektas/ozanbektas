@@ -1,5 +1,6 @@
 ### Hi there 👋
 -🔭 I’m currently working on DATA SCIENCE & COMPUTATIONAL CHEMISTRY
+
 -🌱 I’m currently learning PYTHON FOR MACHINE LEARNING
 - 👯 I’m looking to collaborate on data science
 - 🤔 I’m looking for help with machine learning and AI softwares
