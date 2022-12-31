@@ -1,8 +1,8 @@
 ### Hi there 👋
 -🔭 I’m currently working on DATA SCIENCE
 -🌱 I’m currently learning PYTHON FOR MACHINE LEARNING
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with FINDING A DATA SCIENCE JOB
+- 👯 I’m looking to collaborate on data science
+- 🤔 I’m looking for help with machine learning and AI softwares
 - 💬 Ask me about ANYTHING 
 - 📫 How to reach me: www.linkedin.com/in/ozanbektas1
 - 😄 Pronouns: I am kind and helpful
