@@ -7,7 +7,7 @@
 - 📫 How to reach me: www.linkedin.com/in/ozanbektas1
 - 😄 Pronouns: I am kind and helpful
 - ⚡ Fun fact: It's better to be a planned fool than an unplanned genius 
--->
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ozanbektas)  
-[![Medium Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozanbektas1/) 
+
+-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ozanbektas)  
+-[![Medium Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozanbektas1/) 
 
