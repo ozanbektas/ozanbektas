@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DATA SCIENCE
-- 🌱 I’m currently learning PYTHON FOR MACHINE LEARNING
+##🔭 I’m currently working on DATA SCIENCE
+##🌱 I’m currently learning PYTHON FOR MACHINE LEARNING
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with FINDING A DATA SCIENCE JOB
 - 💬 Ask me about ANYTHING 
